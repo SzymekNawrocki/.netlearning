@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\MyBoards1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|c:\\users\\hp\\source\\repos\\myboards1\\myboards1\\entities\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|solutionrelative:myboards1\\entities\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|c:\\users\\hp\\source\\repos\\myboards1\\myboards1\\myboards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|solutionrelative:myboards1\\myboards.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|c:\\users\\hp\\source\\repos\\myboards1\\myboards1\\entities\\myboardscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|solutionrelative:myboards1\\entities\\myboardscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|c:\\users\\hp\\source\\repos\\myboards1\\myboards1\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|solutionrelative:myboards1\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|c:\\users\\hp\\source\\repos\\myboards1\\myboards1\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|solutionrelative:myboards1\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|c:\\users\\hp\\source\\repos\\myboards1\\myboards1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|solutionrelative:myboards1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|c:\\users\\hp\\source\\repos\\myboards1\\myboards1\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|solutionrelative:myboards1\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|c:\\users\\hp\\source\\repos\\myboards1\\myboards1\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|solutionrelative:myboards1\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|c:\\users\\hp\\source\\repos\\myboards1\\myboards1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|solutionrelative:myboards1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|c:\\users\\hp\\source\\repos\\myboards1\\myboards1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|solutionrelative:myboards1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|c:\\users\\hp\\source\\repos\\myboards1\\myboards1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B1F7A389-43F1-4E2E-9313-6C388141F225}|MyBoards1\\MyBoards.csproj|solutionrelative:myboards1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyBoardsContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\MyBoardsContext.cs",
+              "RelativeDocumentMoniker": "MyBoards1\\Entities\\MyBoardsContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\MyBoardsContext.cs",
+              "RelativeToolTip": "MyBoards1\\Entities\\MyBoardsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T13:01:24.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\libman.json",
+              "RelativeDocumentMoniker": "MyBoards1\\libman.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\libman.json",
+              "RelativeToolTip": "MyBoards1\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T12:55:39.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "MyBoards1\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\Address.cs",
+              "RelativeToolTip": "MyBoards1\\Entities\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:53:26.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MyBoards1\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\User.cs",
+              "RelativeToolTip": "MyBoards1\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:52:24.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "MyBoards1\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\Tag.cs",
+              "RelativeToolTip": "MyBoards1\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:51:26.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "MyBoards1\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\Comment.cs",
+              "RelativeToolTip": "MyBoards1\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:49:21.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\WorkItem.cs",
+              "RelativeDocumentMoniker": "MyBoards1\\Entities\\WorkItem.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Entities\\WorkItem.cs",
+              "RelativeToolTip": "MyBoards1\\Entities\\WorkItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:44:43.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyBoards.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\MyBoards.csproj",
+              "RelativeDocumentMoniker": "MyBoards1\\MyBoards.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\MyBoards.csproj",
+              "RelativeToolTip": "MyBoards1\\MyBoards.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-16T12:27:10.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Program.cs",
+              "RelativeDocumentMoniker": "MyBoards1\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\Program.cs",
+              "RelativeToolTip": "MyBoards1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:26:36.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\appsettings.json",
+              "RelativeDocumentMoniker": "MyBoards1\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\appsettings.json",
+              "RelativeToolTip": "MyBoards1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T12:22:39.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MyBoards1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MyBoards1\\MyBoards1\\appsettings.Development.json",
+              "RelativeToolTip": "MyBoards1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T12:22:38.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
